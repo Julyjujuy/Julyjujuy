@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julyjujuy
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning c#
+- 👀 I’m always interested in learning new programming languages
+- 🌱 I’m currently looking to participate in c# projects
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me: tantissimo.entusiasmo@gmail.com
 
